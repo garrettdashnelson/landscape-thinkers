@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-03-09">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" timeformat="double" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="Born" title="Born" type="biginteger"></attribute>
+      <attribute id="Died" title="Died" type="biginteger"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="Frederick Law Olmsted, Sr." start="1822.0" end="1903.0">
+        <attvalues>
+          <attvalue for="Born" value="1822"></attvalue>
+          <attvalue for="Died" value="1903"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-270.30557" y="-133.88922" z="0.0"></viz:position>
+      </node>
+      <node id="2" label="Frederick Law Olmsted, Jr." start="1870.0" end="1957.0">
+        <attvalues>
+          <attvalue for="Born" value="1870"></attvalue>
+          <attvalue for="Died" value="1957"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-130.89302" y="544.8915" z="0.0"></viz:position>
+        <viz:color r="191" g="191" b="191"></viz:color>
+      </node>
+      <node id="3" label="John C. Olmsted" start="1852.0" end="1920.0">
+        <attvalues>
+          <attvalue for="Born" value="1852"></attvalue>
+          <attvalue for="Died" value="1920"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="57.116974" y="-645.56085" z="0.0"></viz:position>
+        <viz:color r="191" g="191" b="191"></viz:color>
+      </node>
+      <node id="4" label="Frederick Kingsbury">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-186.33533" y="103.46187" z="0.0"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="5" label="Charles Loring Brace">
+        <attvalues>
+          <attvalue for="Born" value="1826"></attvalue>
+          <attvalue for="Died" value="1890"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.15994" y="-398.33133" z="0.0"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="6" label="Calvert Vaux">
+        <attvalues>
+          <attvalue for="Born" value="1824"></attvalue>
+          <attvalue for="Died" value="1895"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.040913" y="-588.58105" z="0.0"></viz:position>
+        <viz:color r="255" g="255" b="255"></viz:color>
+      </node>
+      <node id="7" label="Andrew Jackson Downing">
+        <attvalues>
+          <attvalue for="Born" value="1815"></attvalue>
+          <attvalue for="Died" value="1852"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="33.90031" y="32.3595" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="8" label="Gifford Pinchot">
+        <attvalues>
+          <attvalue for="Born" value="1865"></attvalue>
+          <attvalue for="Died" value="1946"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.13488" y="261.22018" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="9" label="Toynbee Hall">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-474.71213" y="-196.20323" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="10" label="Frederic Howe">
+        <attvalues>
+          <attvalue for="Born" value="1867"></attvalue>
+          <attvalue for="Died" value="1940"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="126.108475" y="132.82718" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="11" label="Sylvester Baxter">
+        <attvalues>
+          <attvalue for="Born" value="1850"></attvalue>
+          <attvalue for="Died" value="1927"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.04698" y="194.09811" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="12" label="John Nolen">
+        <attvalues>
+          <attvalue for="Born" value="1869"></attvalue>
+          <attvalue for="Died" value="1937"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.82504" y="-350.13385" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="13" label="Simon Patten">
+        <attvalues>
+          <attvalue for="Born" value="1852"></attvalue>
+          <attvalue for="Died" value="1922"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="651.36" y="576.327" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="14" label="Rexford Guy Tugwell">
+        <attvalues>
+          <attvalue for="Born" value="1891"></attvalue>
+          <attvalue for="Died" value="1979"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-685.5096" y="436.23273" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="15" label="Richard Ely">
+        <attvalues>
+          <attvalue for="Born" value="1854"></attvalue>
+          <attvalue for="Died" value="1943"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-405.34802" y="79.30804" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="16" label="Edmund James">
+        <attvalues>
+          <attvalue for="Born" value="1855"></attvalue>
+          <attvalue for="Died" value="1925"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="642.8534" y="-431.49854" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="17" label="Wharton">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-648.9743" y="477.1539" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="18" label="Lewis Mumford">
+        <attvalues>
+          <attvalue for="Born" value="1895"></attvalue>
+          <attvalue for="Died" value="1990"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.42974" y="712.044" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="19" label="Charles Eliot">
+        <attvalues>
+          <attvalue for="Born" value="1859"></attvalue>
+          <attvalue for="Died" value="1897"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.7301" y="669.0267" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="20" label="Catherine Bauer Wurster">
+        <attvalues>
+          <attvalue for="Born" value="1905"></attvalue>
+          <attvalue for="Died" value="1964"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.011387" y="-543.3045" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="21" label="Harvard">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.26215" y="-65.19711" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="22" label="Survey">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-458.801" y="-209.2862" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="23" label="Benton MacKaye">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.26038" y="296.13312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="24" label="J. B. Jackson">
+        <attvalues>
+          <attvalue for="Born" value="1909"></attvalue>
+          <attvalue for="Died" value="1996"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.3728" y="-129.41602" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="25" label="Carl O. Sauer">
+        <attvalues>
+          <attvalue for="Born" value="1889"></attvalue>
+          <attvalue for="Died" value="1975"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="419.61713" y="-255.33455" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="13">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="17">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="16">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="17">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="20">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="22">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="23">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="22">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="21">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="25">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="18">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
